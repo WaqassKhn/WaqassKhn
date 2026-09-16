@@ -137,7 +137,7 @@ Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Mu
 <!-- Live Spotify Now Playing Card -->
 <p align="center">
   <a href="https://open.spotify.com/user/31rkvwpfbkb37v7vnriwnuo5jeaa?si=fbacc633b314466f" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/run?uid=31rkvwpfbkb37v7vnriwnuo5jeaa&scan=true" alt="Spotify Live Now Playing" width="400" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rkvwpfbkb37v7vnriwnuo5jeaa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b700fa&bar_color_cover=true" alt="Spotify Live Now Playing" />
   </a>
 </p>
 
@@ -147,18 +147,6 @@ Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Mu
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rkvwpfbkb37v7vnriwnuo5jeaa&count=5" alt="Spotify Recently Played" />
   </a>
 </p>
-
-<details>
-  <summary><b>How to activate your live Spotify Now-Playing & Last-Played widgets (1 min)</b></summary>
-  <br />
-  
-  Your widgets are already configured with your Spotify User ID (`31rkvwpfbkb37v7vnriwnuo5jeaa`). To authorize Spotify to stream your active tracks:
-  
-  1. Visit <a href="https://spotify-github-profile.kittinanx.com/" target="_blank">spotify-github-profile.kittinanx.com</a> and click **Login with Spotify** once to grant read access.
-  2. Visit <a href="https://github.com/JeffreyCA/spotify-recently-played-readme" target="_blank">spotify-recently-played-readme</a> to enable the recently-played feed.
-  3. That is it — any song playing on your devices will show up right here in real time.
-  
-</details>
 
 </div>
 
