@@ -1,4 +1,4 @@
-# Who I Am
+# $ whoami
 
 I am a **Computer Science and Engineering undergraduate specializing in Artificial Intelligence**, building AI-powered solutions and machine learning models.
 
