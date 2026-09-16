@@ -2,7 +2,7 @@
 
 I am a **Computer Science and Engineering undergraduate specializing in Artificial Intelligence**, building AI-powered solutions and machine learning models.
 
-Passionate about: **AI/ML** &bull; **Esports IGL (Apex Legends)** &bull; **Cinema** &bull; **Music**
+Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Music**
 
 ---
 
@@ -192,6 +192,5 @@ Passionate about: **AI/ML** &bull; **Esports IGL (Apex Legends)** &bull; **Cinem
 
 <br /><br />
 
-<sub>Designed with dark aesthetics &bull; Synthesized by sound &bull; Engineered with Intelligence</sub>
 
 </div>
