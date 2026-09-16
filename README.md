@@ -141,13 +141,6 @@ Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Mu
   </a>
 </p>
 
-<!-- Recently Played dynamic widget -->
-<p align="center">
-  <a href="https://open.spotify.com/user/31rkvwpfbkb37v7vnriwnuo5jeaa?si=fbacc633b314466f" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rkvwpfbkb37v7vnriwnuo5jeaa&count=5" alt="Spotify Recently Played" />
-  </a>
-</p>
-
 </div>
 
 ---
