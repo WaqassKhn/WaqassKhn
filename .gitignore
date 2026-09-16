@@ -1,0 +1,5 @@
+# Ignore raw downloads in root
+*.png
+*.jpg
+*.avif
+!assets/**
