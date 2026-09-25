@@ -1,6 +1,6 @@
 # $ whoami
 
-I am a **Computer Science and Engineering undergraduate specializing in Artificial Intelligence**, building AI-powered solutions and machine learning models.
+I am a **Computer Science and Engineering undergraduate specializing in Artificial Intelligence**, building AI-powered solutions and machine learning models
 
 Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Music**
 
