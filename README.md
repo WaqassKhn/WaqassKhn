@@ -66,7 +66,7 @@ Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Mu
       <br />
       <sub><em>OK Computer / Kid A monochrome band portrait</em></sub>
       <br /><br />
-      <sub>"For a minute there, I lost myself, I lost myself."</sub>
+      <sub>"And no alarms and no surprises"</sub>
     </td>
     <td width="33.3%" align="center" valign="top">
       <a href="https://open.spotify.com/album/7dAm8ShwJLFm9Sa66Y5CNX" target="_blank">
@@ -88,7 +88,7 @@ Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Mu
       <br />
       <sub><em>Hybrid Theory era street portrait</em></sub>
       <br /><br />
-      <sub>"I tried so hard and got so far, but in the end, it doesn't even matter."</sub>
+      <sub>"I'll face myself to cross out what I've become"</sub>
     </td>
   </tr>
 </table>
