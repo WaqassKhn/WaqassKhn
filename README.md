@@ -77,7 +77,7 @@ Passionate about: **AI/ML** &bull; **Esports IGL** &bull; **Cinema** &bull; **Mu
       <br />
       <sub><em>Die Lit stage-dive monochrome cover</em></sub>
       <br /><br />
-      <sub>"They can't understand me, I'm talking hieroglyphics."</sub>
+      <sub>"I told her I'm big like Bieber, she ain't believe me (schyeah)"</sub>
     </td>
     <td width="33.3%" align="center" valign="top">
       <a href="https://open.spotify.com/album/6hPkbAV3ZXpGZBZsJf43Zh" target="_blank">
